@@ -1,0 +1,20 @@
+title = "Yu-Gi-Oh! ZEXAL World Duel Carnival"
+description = "Yu-Gi-Oh! ZEXAL World Duel Carnival is a competitive card game video game developed and published by Konami for the Nintendo 3DS. It is based on the first arc of the Yu-Gi-Oh! Zexal anime."
+needs_system_files = false
+needs_shared_font = false
+game_type = "eshop"
+
+[[releases]]
+title = "0004000000132B00"
+region = "eur"
+release_date = "2014-06-14"
+
+[[testcases]]
+title = "0004000000132B00"
+compatibility = "4"
+date = "2017-10-16"
+version = "HEAD-e9d1e8c"
+cpu = "AMD Athlon II X2 270"
+gpu = "AMD Radeon HD 7700"
+os = "Windows 10 16299"
+author = "holdenlessard"
